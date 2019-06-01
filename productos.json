@@ -1,0 +1,14 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "nombre": "panela de caña",
+      "precio": "13890000"
+    },
+    {
+      "id": 2,
+      "nombre": "azucar de caña",
+      "precio": "21212"
+    }
+  ]
+}
